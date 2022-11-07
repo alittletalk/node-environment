@@ -1,0 +1,13 @@
+{
+  "name": "environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"may the force be with you\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
